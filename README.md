@@ -20,20 +20,18 @@ A desktop-based Online Shopping application developed using **C** and **GTK GUI 
 ## Screenshots
 
 ### Home Page
-![Home Page](docs/home_page.png)
+![Home Page](docs/product_catalog.png)
 
 ### Product Details
-![Product Details](docs/product_details.png)
+![Product Details](docs/add_to_cart_popup.png)
 
 ### Cart Page
 ![Cart Page](docs/cart_page.png)
 
 ## How to Run
 1. Install **GTK library**
-2. Compile using GCC
-   gcc src/main.c `pkg-config --cflags --libs gtk+-3.0` -o shop
-3. Run the executable file
-   ./shop
+2. Compile using GCC  gcc src/main.c `pkg-config --cflags --libs gtk+-3.0` -o shop
+3. Run the executable file  ./shop
 
 ## Author
 Sreeja
