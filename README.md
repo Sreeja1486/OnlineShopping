@@ -21,17 +21,17 @@ A desktop-based Online Shopping application developed using **C** and **GTK GUI 
 
 ### Home Page
 <p align="center">
-<img src="docs/product_catalog.png" width="600" border="3">
+<img src="docs/product_catalog.png" width="600" >
 </p>
 
 ### Product Details
 <p align="center">
-<img src="docs/add_to_cart_popup.png" width="400" border="3">
+<img src="docs/add_to_cart_popup.png" width="400" >
 </p>
 
 ### Cart Page
 <p align="center">
-<img src="docs/cart_page.png" width="400" border="3">
+<img src="docs/cart_page.png" width="400" >
 </p>
 
 ## How to Run
@@ -40,4 +40,4 @@ A desktop-based Online Shopping application developed using **C** and **GTK GUI 
 3. Run the executable file  ./shop
 
 ## Author
-Sreeja
+**Sreeja M**
