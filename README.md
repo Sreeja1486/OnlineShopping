@@ -26,12 +26,12 @@ A desktop-based Online Shopping application developed using **C** and **GTK GUI 
 
 ### Product Details
 <p align="center">
-<img src="docs/add_to_cart_popup.png" width="450">
+<img src="docs/add_to_cart_popup.png" width="400">
 </p>
 
 ### Cart Page
 <p align="center">
-<img src="docs/cart_page.png" width="450">
+<img src="docs/cart_page.png" width="400">
 </p>
 
 ## How to Run
